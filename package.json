@@ -1,0 +1,24 @@
+{
+  "name": "raftlabs_assignment",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aniruddha",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.1",
+    "morgan": "^1.10.0",
+    "qs": "^6.11.1",
+    "querystring": "^0.2.1",
+    "redis": "^4.6.5",
+    "socket.io": "^4.6.1"
+  }
+}
